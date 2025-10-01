@@ -1,4 +1,4 @@
-Updated: 2025-09-27
+Updated: 2025-10-01
 
 # Crypto-Trading-Bot
 Trading Bot For PancakeSwap/SushiSwap/UniSwap on Binance Smart Chain </br>
